@@ -23,7 +23,7 @@ yt==4.4.0
 ## Usage
 
 - Ensure that the `src` and `own_scripts` folders are located in the same directory.
-
+- Download the Trident ion balance file, hm2012_hr.h5.gz found at https://trident-project.org/data/ion_table/ and insert in the `src` folder.
 - Adjust parameters and generate clouds in:
 
 ```
