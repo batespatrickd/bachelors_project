@@ -63,7 +63,7 @@ include_observed_data = True
 filter_lise_by_max_distance = True
 
 if include_observed_data:
-    lise_df = pd.read_csv("../../observed_table/cleaned_table.csv")
+    lise_df = pd.read_csv("../observed_table/cleaned_table.csv")
     lise_df = lise_df.dropna(subset=["b", "errb", "v90"])
     if filter_lise_by_max_distance:
         max_distance = df["Distance"].max()
