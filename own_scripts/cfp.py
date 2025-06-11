@@ -1,3 +1,5 @@
+# Script debugged and modified with the help of OpenAI. (2025). ChatGPT (June 11 version) [Large language model]. https://chat.openai.com/
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
