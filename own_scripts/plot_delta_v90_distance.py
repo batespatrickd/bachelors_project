@@ -1,4 +1,4 @@
-# # ########################## WORKS ALSO WITH LARGER SIMULATIONS, color code,  boolean for both max observed distance and show observed distances, histograms, filter min d_v90 values, histograms ####### 
+# Script debugged and modified with the help of OpenAI. (2025). ChatGPT (June 11 version) [Large language model]. https://chat.openai.com/
 
 import pandas as pd
 import numpy as np
