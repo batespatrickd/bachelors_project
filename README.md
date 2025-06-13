@@ -30,7 +30,7 @@ yt==4.4.0
 src/make_clouds.py
 ```
 
-- Determine the amount of rays and send them through clouds:
+- Determine the number of rays and send them through clouds:
 
 ```
 src/make_rays.py clouds.h5
